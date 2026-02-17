@@ -1,5 +1,5 @@
 # Solution
-
+GIT REPO: https://github.com/Dhanushburra/REGRESSION_LAB.git
 ## USAGE OF AI TOOLS:
 1. Used VS Code AI editor with free models in ask/agent mode
 2. Insted of crawling the entire codebase, I prompted the AI tool to give me a detailed e2e workflow explanation
